@@ -1,0 +1,48 @@
+streamlit
+
+Libraray managment app
+
+auther -> signup/login -> Publish books(books can be private too if auther want to show only for followers) -> 
+                    read books -> save in favorite books -> follow other authers -> download books -> tag other authers -> browse books
+                    -> dashboard -> Book status (reading / finished / unread) -> Reading list -> follower readers -> followed authors
+
+users -> signup/login -> read books -> save in favorite books -> download books -> follow authers -> browse books -> dashboard 
+                        -> Book status (reading / finished / unread) -> Reading list -> Mark favorite author  
+
+Pages -> dashboard : favorite books : profile : boosk status : Reading list -> Favorite authors -> Followed authors
+
+
+Main Features
+
+👤 Author
+Signup/Login
+Publish Books
+Upload PDF
+Upload Cover
+Public / Followers Only / Private
+Edit Book
+Delete Book
+View Analytics
+View Followers
+
+👤 Reader
+Signup/Login
+Browse Books
+Read Online
+Download PDF
+Favorite Books
+Reading List
+Follow Authors
+Reading Progress
+
+
+| Technology            | Purpose               |
+| --------------------- | --------------------- |
+| Python                | Backend Logic         |
+| Streamlit             | Frontend              |
+| Supabase (PostgreSQL) | Database              |
+| Supabase Storage      | PDF & Images          |
+| bcrypt                | Password Hashing      |
+| Pandas                | Tables                |
+| python-dotenv         | Environment Variables |
+

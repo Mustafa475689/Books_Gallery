@@ -46,3 +46,27 @@ Reading Progress
 | Pandas                | Tables                |
 | python-dotenv         | Environment Variables |
 
+✅ Version 1 (Portfolio Ready)
+Supabase
+Authentication
+Book Upload
+PDF Reader
+Bookmark
+Reading Progress
+Notes
+Favorites
+Follow Authors
+Dashboards
+
+
+✅ Version 2 (Premium Features)
+Text Highlighting
+In-book Search
+Annotations
+Dark Mode Reader
+Font Controls
+Comments on Books
+Ratings
+AI Book Summary (optional)
+AI Q&A on the Book (optional)
+
